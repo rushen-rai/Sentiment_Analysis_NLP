@@ -1,9 +1,9 @@
 **GROUP MEMBERS:**
--GARCES, Jonathan
--INGKING, Russel
--LACADEN, Jeremiah
--PINGEN, Denver Ace
--YACAPIN, Neil John
+- GARCES, Jonathan
+- INGKING, Russel
+- LACADEN, Jeremiah
+- PINGEN, Denver Ace
+- YACAPIN, Neil John
 
 # Sentiment Analysis on IMDB Dataset: Comparing Bag-of-Words and TF-IDF Feature Extraction Methods
 
